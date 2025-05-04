@@ -65,8 +65,6 @@
     <Compile Include="GeneralView.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="HelloWorldTask.cs" />
-    <Compile Include="HelloWorldTaskUI.cs" />
     <Compile Include="LogVariablesTaskUIForm.cs">
       <SubType>Form</SubType>
     </Compile>
